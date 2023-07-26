@@ -1,0 +1,28 @@
+name: Eddy Qiu
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  The home of Eddy Qiu's Brain.
+page_title:
+  "🪴 Eddy Qiu"
+links:
+  - link_name: Instagram
+    link: https://www.instagram.com/eddydqiu/
+  - link_name: GitHub
+    link: https://github.com/eddy-qiu
