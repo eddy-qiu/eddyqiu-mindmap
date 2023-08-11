@@ -22,3 +22,12 @@ Shit is getting real now. Just got JP Morgan Hackerrank OA, very nervous for it 
 Attempt this one again in two days.
 Approach - bucket sort
 
+I'be kinda been taking a break recently 😅 due to having completed an OA recently. However, I have to stay on the grind, as a lot of other opportunities and things will pop up soon that I will have to be exceedingly ready with.
+
+## 8/10/2023
+WE BACK. Finally back in the grind mindset - imma try to cop a good internship through PURE SKILLS.
+Valid parentheses: https://leetcode.com/problems/valid-parentheses/submissions/1018073150/
+Finished this problem in under 30 mins? A bit slow and had to take care of a lot of bugs. Used a stack for this problem. According to Neetcode, this could be optimized a little better with maps (python dicts).
+
+
+
