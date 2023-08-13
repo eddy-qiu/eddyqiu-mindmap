@@ -13,4 +13,4 @@ Self-improvement
 Lean startups
 Learning to build
 
-idekkkkkk stay tuned :))))))))))
+idekkkkkk stay tuned trol
