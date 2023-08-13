@@ -29,5 +29,8 @@ WE BACK. Finally back in the grind mindset - imma try to cop a good internship t
 Valid parentheses: https://leetcode.com/problems/valid-parentheses/submissions/1018073150/
 Finished this problem in under 30 mins? A bit slow and had to take care of a lot of bugs. Used a stack for this problem. According to Neetcode, this could be optimized a little better with maps (python dicts).
 
+## 8/12/2023
+Attempted Valid Palindrome again, try again tomorrow. ord() in python returns an integer representing the Unicode character. Strategy: comment the steps btw - create a pointer to the end and beginning of the string, traverse using while until the character is one of the valid ones, keep checking until the pointers are equal.
+
 
 
