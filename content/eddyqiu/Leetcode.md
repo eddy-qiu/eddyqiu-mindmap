@@ -33,4 +33,9 @@ Finished this problem in under 30 mins? A bit slow and had to take care of a lot
 Attempted Valid Palindrome again, try again tomorrow. ord() in python returns an integer representing the Unicode character. Strategy: comment the steps btw - create a pointer to the end and beginning of the string, traverse using while until the character is one of the valid ones, keep checking until the pointers are equal.
 
 
+## 11/27/2023
+Hahaha.... purchased Leetcode premium! I will try to keep up with doing problems everyday to make it worth it. Consistency is key. Today I attempted https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/ but still had some problems brainstorming solutions. I will attempt again tomorrow. 
 
+Solution: When buying and selling a stock, we can have some sort of dynamic programming idea where we store the lowest cost day (memo). Then, we just find the the biggest difference in the days until we find another lowest cost day. Though we might not find a better profit after the lowest cost, we will have already stored the best profit from before (dynamic programming!).
+
+Note: Taking CMSC389O, I have done a couple other leetcode problems, so I haven't really been slacking (I have). I should upload them tomorrow just to keep track of them in leetcode (and to also see the number go up).

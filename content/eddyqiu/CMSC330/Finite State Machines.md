@@ -1,0 +1,40 @@
+---
+title: Finite State Machines
+tags:
+  - CMSC330
+---
+- finite amount of nodes for a graph
+- a basis for Push Down Automata and Turing Machines
+- recall Regex
+	- Alphabet
+	- Concatenation
+	- Branching (Union)
+	- Repetition (Kleene Closure)
+	- Definition of Regex:
+		- | $\emptyset$
+		- | $\epsilon$
+		- | $\delta$
+		- | R$_1$R$_2$
+		- | R$_1$ | R$_2$
+		- | R$_1$*
+- Deterministic (DFA) vs. Non-deterministic (NFA)
+	- Non is easier to create because it includes all paths while deterministic is very linear and you know where you are at all times
+	- Every DFA is an NFA, but not every NFA is a DFA
+	- DFAs take more space
+- Constructing machine with Regex base cases
+	- you can combine base case machines by joining the last step and first step of machines, or an $\epsilon$ transition (makes it NFA)
+- FSM(edges, nodes, yes nodes, start node, alphabet)
+	- $\Sigma$ = alphabet
+	- Q = List of nodes
+	- q $\in$ Q starting state
+	- F = list of yes states
+	- $\delta$ = transitions (edges)
+- #### **Convert from NFA to DFA** - [Guide][https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNpJrJ5v2CAxWmFVkFHavBC4IQFnoECBEQAQ&url=http%3A%2F%2Fweb.stanford.edu%2Fclass%2Farchive%2Fcs%2Fcs103%2Fcs103.1202%2Fnotes%2FGuide%2520to%2520the%2520Subset%2520Construction.pdf&usg=AOvVaw37BQXZOCmoP3hvl_EU0JuY&opi=89978449]
+	- basis: combine states to represent possible NFA states
+	- subset algorithm (requires two functions)
+		- **$\epsilon$-closure**
+			- which states can I get to using only $\epsilon$ transitions
+			- can always reach self
+		- **Move**
+			- which states can I get to using one symbol transition
+			- could be none
