@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3d1509b08e1fd0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMSC330/Finite State Machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50b7ddaf964553fa",
             "type": "leaf",
             "state": {
@@ -191,17 +203,21 @@
   },
   "active": "56a05082e82a9df5",
   "lastOpenFiles": [
-    "CMSC351/CMSC351.md",
+    "CMSC330/Finite State Machines.md",
     "CMSC330/CMSC330.md",
+    "CMSC351/CMSC351.md",
+    "CMSC330/Higher Order Functions.md",
+    "CMSC351/Spanning Tree Algorithms (Prim's and Kruskal's).md",
+    "CMSC351/Kadane's Algorithm.md",
+    "CMSC351/Sorting Algorithms.md",
+    "CMSC351/Untitled",
     "CMSC351",
     "CMSC330/OCaml.md",
     "CMSC330/Rust.md",
     "CMSC330/Operational Semantics.md",
     "CMSC330/Context Free Grammars.md",
     "CMSC330/Lambda Calculus.md",
-    "CMSC330/Finite State Machines.md",
     "CMSC330/Regular Expressions.md",
-    "CMSC330/Higher Order Functions.md",
     "Behavioral Prep.md",
     "Constellation.md",
     "Technical Prep.md",
@@ -218,7 +234,6 @@
     "Untitled.canvas",
     "2023-10-17.md",
     "CMSC330",
-    "Template",
-    "2023-07-21.md"
+    "Template"
   ]
 }
