@@ -61,12 +61,12 @@ let mut shape1 = Shape {
 	```Rust 
 	fn invalid(x:&i32, y:&i32) -> &i32 {} // this will not compile
 	
-	// examples of valid headers
-	fn valid1(x:&'a i32, y:&'b i32) -> &'a i32 {} // cannot return y
+	// examples of valid headers with lifetime annotations
+	fn valid1<'a,'b>(x:&'a i32, y:&'b i32) -> &'a i32 {} // cannot return y
 	
-	fn valid2(x:&'a i32, y:&'b i32) -> &'b i32 {} // cannot return x
+	fn valid2<'a,'b>(x:&'a i32, y:&'b i32) -> &'b i32 {} // cannot return x
 	
-	fn valid3(x:&'a i32, y:&'a i32) -> &'a i32 {} 
+	fn valid3<'a>(x:&'a i32, y:&'a i32) -> &'a i32 {} 
 	// accurate way to think: return value must live as long as the two inputs
 	// or the two inputs must live as long as the return value
 	// (opposed to x, y, and return have the same lifetime)
@@ -80,3 +80,7 @@ let mut shape1 = Shape {
 	- similar to "interfaces" in other languages
 	- guarantees behavior based on traits
 	- Abstracts low level properties to larger level viewpoint
+- Slice: a view onto some data that could be anywhere
+- String vs str
+	- String is the dynamic heap string type, like Vec: use it when you need to own or modify your string data
+	- str is an immutable sequence of UTF-8 bytes of dynamic length somewhere in memory. Since the size is unknown, you can only handle it behind a pointer. This is why str most commonly appears as &str, called a "string slice"

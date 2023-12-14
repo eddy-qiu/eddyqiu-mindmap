@@ -1,11 +1,12 @@
 Tell me about yourself.
 
-Hi! I'm Eddy Qiu, a computer science major graduating in Spring of 2025. This past summer I interned at Van Metre Companies, which is a real estate firm located in Fairfax, Virginia. I worked on the database team to help support and develop their on-site and cloud databases, which store pertinent information for the real estate, accounting, and bookkeeping aspects of their business. My work was primarily updating old scripts and creating new scripts to manipulate the data and make queries more efficient. Now I'm back at school, and one of my notable roles is a Tech Lead for the Maryland Undergraduate Research Journal, where I oversee management of the website. I am excited for this interview because of my personal interest in e-commerce and admiration for the mission and culture at Nordstrom!
+Hi! I'm Eddy Qiu, a computer science major graduating in Spring of 2025. This past summer I interned at Van Metre Companies, which is a real estate firm located in Fairfax, Virginia. I worked on the database team to help support and develop their on-site and cloud databases, which store pertinent information for the real estate, accounting, and bookkeeping aspects of their business. My work was primarily updating old scripts and creating new scripts to manipulate the data and make queries more efficient. Now I'm back at school, and one of my notable roles is the Tech Lead for the Maryland Undergraduate Research Journal, where I oversee management of the website. I'm really excited to share my experiences and learn more about the role and your experiences!
 
 **Describe a situation where a teammate was unable to finish their work.**
 
 My business honors class not very technical, unlike my computer science classes, and our work consists mostly of analysis and group projects. For one presentation on how a company would utilize AI for their business in the future, I was grouped up with several peers. We created a group chat and set up a time to meet in order to collaborate on the project, but when it came time to meet, there was a member who did not show up at all, even after us reminding him in the group chat. Since we had planned earlier to split up the work, we suddenly extra work to do. Chasing a good grade on the project, I volunteered to work on it, and some of my other team members also volunteered to help out. In the end, I don't think the teammate was penalized, but the rest of my team and I did gain even more teamwork and communication skills as a result.
 
+https://github.com/viraptor/reverse-interview
 Questions to ask interviewer:
 1. Why did you want to work for this company?
 2. How can someone be successful in the position?

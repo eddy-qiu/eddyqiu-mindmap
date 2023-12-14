@@ -1,3 +1,5 @@
+#1 producer of carbon free energy
+
 **Qualifications**
 
 - Currently enrolled in a Bachelor's or Master's program in Computer Science, Computer Engineering, Information Technology, Information Systems, Networking/Network Engineering, Computer Engineering, Math, Physics or equivalent
@@ -6,6 +8,9 @@
 - Eagerness to contribute in a team-oriented environment.
 - Ability to work creativity and analytically in a problem-solving environment.
 - Excellent leadership, communication (written and verbal) and interpersonal skills
+
+Why do you want to intern at Constellation?
+I want to intern at Constellation, because at Constellation, I can feel proud that my work is going towards a better future. Climate change and sustainability are issues that are very personal to me and relevant to the world. Also, Constellation is a very innovative company at the forefront of exciting technologies, and they empower homes and businesses with sustainable and affordable energy. The intern program is also very attractive to me because I will get the chance to collaborate with experienced mentors and other interns
 
 Why join Constellation as Intern?
 
@@ -45,3 +50,7 @@ Questions to ask interviewer:
 4. What are some example projects of past interns?
 5. What's the culture like between interns and the other employees?
 6. Do interns choose their own project to pursue, or are they assigned to already existing projects?
+7. How can interns measure their impact and feel proud of their accomplishments accumulated over the summer?
+8. What's the process like for onboarding interns into the company?
+9. What do you think new hires are least prepared for when they start the job?
+	1. If you were to hire me, how do you think I could prepare and try to overcome that?

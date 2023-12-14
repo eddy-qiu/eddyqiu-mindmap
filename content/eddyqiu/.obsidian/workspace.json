@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4cd017c6b2fd61a",
+            "id": "56a05082e82a9df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "620af0a244e213e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC330/Operational Semantics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f2676bb3609212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Behavioral Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2d513507730706",
+            "id": "50b7ddaf964553fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purchases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50b7ddaf964553fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career.md",
+                "file": "Technical Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,34 +189,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4cd017c6b2fd61a",
+  "active": "56a05082e82a9df5",
   "lastOpenFiles": [
-    "Career.md",
-    "CMSC330/Finite State Machines.md",
-    "CMSC330/Higher Order Functions.md",
-    "CMSC330/Lambda Calculus.md",
-    "Self.md",
-    "CMSC330/Context Free Grammars.md",
-    "CMSC330/Rust.md",
-    "Rabbitholes.md",
-    "CMSC330/Operational Semantics.md",
+    "CMSC351/CMSC351.md",
     "CMSC330/CMSC330.md",
-    "CMSC330/Regular Expressions.md",
+    "CMSC351",
     "CMSC330/OCaml.md",
+    "CMSC330/Rust.md",
+    "CMSC330/Operational Semantics.md",
+    "CMSC330/Context Free Grammars.md",
+    "CMSC330/Lambda Calculus.md",
+    "CMSC330/Finite State Machines.md",
+    "CMSC330/Regular Expressions.md",
+    "CMSC330/Higher Order Functions.md",
+    "Behavioral Prep.md",
+    "Constellation.md",
+    "Technical Prep.md",
+    "Career.md",
+    "Purchases.md",
+    "Self.md",
+    "Rant.md",
+    "Rabbitholes.md",
+    "Leetcode.md",
+    "Internships.md",
     "Templates/Template.md",
     "Templates",
     "2023-12-07.md",
     "Untitled.canvas",
-    "Constellation.md",
-    "Behavioral Prep.md",
-    "Leetcode.md",
-    "Untitled.md",
     "2023-10-17.md",
-    "Purchases.md",
-    "Internships.md",
     "CMSC330",
     "Template",
-    "Rant.md",
     "2023-07-21.md"
   ]
 }
